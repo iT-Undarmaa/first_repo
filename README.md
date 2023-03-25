@@ -1,3 +1,5 @@
 # first_repo
 
-updated from Tuuguu
+updated Үүнийг өөрчилж үзэв Tuuguu
+
+Local files updated from DUGERSUREN
