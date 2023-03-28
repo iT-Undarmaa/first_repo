@@ -1,0 +1,8 @@
+db.createCollection('people')
+db.getCollection('people').insert({
+    firsname:'Micheal',
+    lastname:'Smith',
+    email:'micheal@gmail.com'   
+})
+db.getCollection('people').find({firsname: 'Micheal'})
+db.getCollection('people').find({firsname : 'Micheal', lastname: 1})
